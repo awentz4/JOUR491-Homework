@@ -1,3 +1,3 @@
 # JOUR491-Homework
 
-repo for homework
+repo for JOUR491 homework
