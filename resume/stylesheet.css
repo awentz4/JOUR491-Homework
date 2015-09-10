@@ -1,0 +1,67 @@
+div {
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+    background-color: orange;
+}
+#header {
+    position: fixed;
+    z-index: 1;
+    width: 96%;
+}
+.name {
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    padding-top: -10px;
+    position: left;
+    font-size: 25px;
+    font-family: Courier, sans-serif;
+    
+}
+.left {
+    position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 20%;
+	height: 53%;
+	background-color: grey;
+	margin-top: 55px;
+	margin-bottom: 10px;
+    
+}
+img {
+    height: 70px;
+    width: auto;
+    padding-top: 32px;
+    padding-left: 6px;
+}
+.right {
+    position: fixed;
+    margin-left: 87px;
+    margin-right: 5px;
+    margin-top: 55px;
+    float: right;
+    width: 75%;
+    height: 50%;
+    font-family: Arial, sans-serif;
+}
+div h2 {
+    font-size: 20px;
+    padding-left: 15px;
+}
+p {
+    padding-left: 15px;
+    position: left;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+a:hover {
+	font-weight: bold;
+}
+#footer {
+    position: fixed;
+    clear: both;
+    width: 96%;
+    margin-top: 195px;
+}
